@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sivajone
+- 👀 I’m interested in front-end programming
+- 🌱 I’m currently learning VueJS
